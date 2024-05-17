@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=AriieSiiS%20👨‍💻&width=1200&height=300)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi,%20I'm%20AriieSiiS%20👨‍💻&width=1200&height=300)](https://github.com/Akshay090/svg-banners)
 
 ## 💫 About Me:
 - 🔭 Working on my portfolio<br>
