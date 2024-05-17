@@ -1,8 +1,8 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=AriieSiiS%20👨‍💻&width=1200&height=300)](https://github.com/Akshay090/svg-banners)
 
 ## 💫 About Me:
-- 🔭 I’m currently working on my portfolio<br>
-- 🌱 I’m currently learning Astro <br>
+- 🔭 Working on my portfolio<br>
+- 🌱 Currently learning Astro <br>
 - ⚡ Have a keen interest in designing, graphics and photo manipulation.
 
 ## <img src="assets/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="36" heigt="36"> Connect with me: 
